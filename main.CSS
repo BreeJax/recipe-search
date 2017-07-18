@@ -24,3 +24,7 @@ li a {
   background-color: black;
   font-size: 2em;
 }
+#Recipe-Search {
+  width: 14em;
+  height: 2.5em;
+}
