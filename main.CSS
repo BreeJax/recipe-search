@@ -1,0 +1,26 @@
+form {
+  border-bottom: 2px solid black;
+  padding: 3em 0 3em 1em;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 10em;
+  height: 10em;
+  padding: 2em;
+  margin: 3em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+li a {
+  color: #ccc;
+  background-color: black;
+  font-size: 2em;
+}
